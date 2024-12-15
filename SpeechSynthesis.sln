@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechSynthesis", "SpeechSynthesis.csproj", "{FBE5C937-6C36-416F-B1FD-7438B3360480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE5C937-6C36-416F-B1FD-7438B3360480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE5C937-6C36-416F-B1FD-7438B3360480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE5C937-6C36-416F-B1FD-7438B3360480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE5C937-6C36-416F-B1FD-7438B3360480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E6C3D3E-15BC-4E86-B046-2DD9C97F7A36}
+	EndGlobalSection
+EndGlobal
